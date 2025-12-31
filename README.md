@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Front-End Developer</strong><br/>
-  HTML • CSS • JavaScript • React
+  HTML • CSS • JavaScript • React • Tailwind CSS
 </p>
 
 <p align="center">
@@ -22,8 +22,9 @@
 I'm a passionate **Front-End Developer** focused on creating clean, scalable, and user-friendly interfaces.  
 I enjoy transforming designs into functional products and continuously improving my skills through real-world projects.
 
-- 💡 Strong focus on **UI/UX & Responsive Design**
+- 💡 Strong focus on **UI/UX, Dark Mode & Responsive Design**
 - ⚛️ Experienced with **React & modern JavaScript (ES6+)**
+- 🎨 Styling with **Tailwind CSS (utility-first workflow)**
 - 🌱 Always learning and improving
 - 🎯 Goal-driven and detail-oriented
 
@@ -41,6 +42,7 @@ I enjoy transforming designs into functional products and continuously improving
 ### ⚛️ Frameworks & Libraries
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" />
 </p>
 
 ### 🛠️ Tools & Workflow
@@ -52,8 +54,9 @@ I enjoy transforming designs into functional products and continuously improving
 </p>
 
 <p>
-  ✔ Responsive Design <br/>
-  ✔ Component-Based Development <br/>
+  ✔ Responsive & Mobile-First Design <br/>
+  ✔ Dark Mode Implementation <br/>
+  ✔ Component-Based Architecture <br/>
   ✔ Debugging with Chrome DevTools
 </p>
 
@@ -66,9 +69,9 @@ I enjoy transforming designs into functional products and continuously improving
 I'm actively working on real-world front-end projects including:
 
 - Interactive JavaScript applications
-- React mini & medium-scale projects
-- Clean UI components
-- Practical exercises for DOM & state management
+- React & Tailwind UI projects
+- Reusable UI components
+- DOM, state & UI logic practice
 
 📌 This section will be updated with pinned repositories soon.
 
