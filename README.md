@@ -1,84 +1,98 @@
 <h1 align="center">👋 Hi, I'm Abolfazl</h1>
 
 <p align="center">
-  <strong>Front-End Developer</strong> <br />
+  <strong>Front-End Developer</strong><br/>
   HTML • CSS • JavaScript • React
 </p>
 
 <p align="center">
-  🚀 Passionate about building modern, responsive & interactive web applications
+  Building modern, responsive & interactive web experiences 🚀
+</p>
+
+<p align="center">
+  <a href="https://github.com/Abolfazldep84">
+    <img src="https://komarev.com/ghpvc/?username=Abolfazldep84&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm an aspiring **Front-End Developer** who loves turning ideas into clean, user-friendly interfaces.  
-I focus on writing **maintainable code**, creating **responsive layouts**, and improving **user experience**.
+I'm a passionate **Front-End Developer** focused on creating clean, scalable, and user-friendly interfaces.  
+I enjoy transforming designs into functional products and continuously improving my skills through real-world projects.
 
-🌱 Currently learning and practicing:
-- Advanced **React**
-- Component-based UI design
-- Real-world front-end projects
-
-🎯 My goal is to become a professional front-end developer and work on impactful products.
+- 💡 Strong focus on **UI/UX & Responsive Design**
+- ⚛️ Experienced with **React & modern JavaScript (ES6+)**
+- 🌱 Always learning and improving
+- 🎯 Goal-driven and detail-oriented
 
 ---
 
-## 🚀 Skills & Technologies
+## 🚀 Tech Stack
 
-### 🧩 Languages
+### 🌐 Languages
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" />
 </p>
 
 ### ⚛️ Frameworks & Libraries
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" />
 </p>
 
-### 🛠️ Tools & Concepts
+### 🛠️ Tools & Workflow
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Responsive%20Design-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="42" />
+</p>
+
+<p>
+  ✔ Responsive Design <br/>
+  ✔ Component-Based Development <br/>
+  ✔ Debugging with Chrome DevTools
 </p>
 
 ---
 
 ## 📂 Projects
 
-🚧 I'm currently working on several **front-end projects** and will update this section soon.
+🚧 **Currently in progress**
 
-🔜 Expect to see:
-- Interactive web apps
-- JavaScript & React mini projects
+I'm actively working on real-world front-end projects including:
+
+- Interactive JavaScript applications
+- React mini & medium-scale projects
 - Clean UI components
-- Real-world practice projects
+- Practical exercises for DOM & state management
 
-👉 Stay tuned and check back soon!
+📌 This section will be updated with pinned repositories soon.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abolfazldep84&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abolfazldep84&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abolfazldep84&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
 <p>
-  📧 Email: <a href="mailto:abolfazlbarzkar9@gmail.com">abolfazlbarzkar9@gmail.com</a><br/>
-  💻 GitHub: <a href="https://github.com/Abolfazldep84">github.com/Abolfazldep84</a>
+  📧 <strong>Email:</strong> <a href="mailto:abolfazlbarzkar9@gmail.com">abolfazlbarzkar9@gmail.com</a><br/>
+  💻 <strong>GitHub:</strong> <a href="https://github.com/Abolfazldep84">github.com/Abolfazldep84</a>
 </p>
 
 ---
 
-⭐ If you like my work, feel free to **star my repositories** and follow me!
+⭐ If you find my work interesting, feel free to **star my repositories** and follow my journey!
